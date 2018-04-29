@@ -1,0 +1,13 @@
+{
+  "name": "black hole facts",
+  "version": "0.0.1",
+  "description": "A simple Alexa skill running as an AWS Lambda function that gives random black hole facts",
+  "main": "index.js",
+  "dependencies": {
+    "alexa-sdk": "^1.0.25"
+  },
+  "repository": {
+    "type": "git"
+  },
+  "license": "MIT"
+}
